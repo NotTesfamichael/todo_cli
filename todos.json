@@ -7,8 +7,8 @@
 },
 {
 "Title": "Buy Bread",
-"Completed": false,
+"Completed": true,
 "CreatedAt": "2024-08-12T15:04:24.949718059+03:00",
-"CompletedAt": null
+"CompletedAt": "2024-08-12T15:39:41.745949588+03:00"
 }
 ]
