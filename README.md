@@ -35,6 +35,11 @@ Run this command to add a new todo list
 ```bash
   ./main -add "Your todo"
 ```
+Run this command to delete todo list
+
+```bash
+  ./main -del #
+```
 Run this command to toggle from No to YES or vice versa
 
 ```bash
