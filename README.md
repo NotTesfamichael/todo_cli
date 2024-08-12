@@ -4,7 +4,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/tesfamichael28/TODO_CLI
+  git clone https://github.com/tesfamichael28/todo_cli
 ```
 
 Go to the project directory
