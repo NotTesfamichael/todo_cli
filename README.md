@@ -22,23 +22,23 @@ Build the application
 Run this command to list
 
 ```bash
-  /main -list
+  ./main -list
 ```
 
 Run this command to edit the current
 
 ```bash
-  /main -edit "1:new_title"
+  ./main -edit "1:new_title"
 ```
 Run this command to add a new todo list
 
 ```bash
-  /main -add "Your todo"
+  ./main -add "Your todo"
 ```
 Run this command to toggle from No to YES or vice versa
 
 ```bash
-  /main -toggle #
+  ./main -toggle #
   
   example
   /main -toggle 2
