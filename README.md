@@ -16,7 +16,7 @@ Go to the project directory
 Build the application
 
 ```bash
-  go run build
+  go build
 ```
 
 Run this command to list
