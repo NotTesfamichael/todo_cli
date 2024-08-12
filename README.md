@@ -10,7 +10,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd TODO_CLI
+  cd todo_cli
 ```
 
 Build the application
